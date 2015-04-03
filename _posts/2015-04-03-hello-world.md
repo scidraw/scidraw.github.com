@@ -2,8 +2,9 @@
 layout: post
 title: "Hello World"
 description: "the first post in scidraw website."
+tagline: by Luye & zhoujj
 category: others
-tags: [unknown]
+tags: [others]
 ---
 {% include JB/setup %}
 
