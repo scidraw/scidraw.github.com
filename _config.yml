@@ -9,7 +9,7 @@ markdown: kramdown
 
 # The title and tagline is showed on homepage
 #
-title : 科图网
+title : 科图
 tagline: NGS data analysis and scientific drawing
 
 # Information about author
@@ -125,9 +125,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : duoshuo
     duoshuo :
-      short_name : simpleyyt
+      short_name : zhoujj
     disqus :
       short_name : zhoujj
     livefyre :
