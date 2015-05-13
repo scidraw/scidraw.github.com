@@ -27,7 +27,9 @@ tags: [R, bioinformatics]
 
 To learn, you can type:
 
+{% highlight r linenos %}
 demo(ROCR)
+{% endhighlight %}
 
 in R terminal.
 
