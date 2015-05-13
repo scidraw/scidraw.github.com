@@ -8,6 +8,9 @@ tags: [R, bioinformatics]
 ---
 {% include JB/setup %}
 
+Binary classification analysis by ROCR.
+
+<!--more-->
 
 [ROC tutorial](https://drive.google.com/file/d/0B3pFI29qszsqUkZuclJCa1A4MGc/view?usp=sharing)
 
