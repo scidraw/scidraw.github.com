@@ -7,6 +7,10 @@ tags: [sequencing, bioinformatics]
 ---
 {% include JB/setup %}
 
+High throughput DNA sequencing technology.
+
+<!--more-->
+
 http://en.wikipedia.org/wiki/DNA_sequencing
 
 http://www.illumina.com/applications/sequencing/dna_sequencing.html

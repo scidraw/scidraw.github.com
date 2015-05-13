@@ -8,14 +8,9 @@ tags: [others]
 ---
 {% include JB/setup %}
 
-
 Just like other Geek, say Hello to the world, specially to biological world.
-Just like other Geek, say Hello to the world, specially to biological world.Just like other Geek, say Hello to the world, specially to biological world.Just like other Geek, say Hello to the world, specially to biological world.
 
 <!--more-->
-
-
-Just like other Geek, say Hello to the world, specially to biological world.
 
 # 为什么要把这些东西写成blog?
 

@@ -2,7 +2,7 @@
 layout: post
 title: "生物信息分析工作系统环境"
 description: "linux/unix environment"
-tagline: by Luye & [zhoujj](zhoujj2013.github.com/~zhoujj)
+tagline: by Luye & zhoujj
 category: bioinformatics
 tags: [linux, bioinformatics]
 ---

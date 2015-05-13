@@ -2,7 +2,7 @@
 layout: post
 title: "常规PCR引物设计"
 description: "primer design for common pcr experiment"
-tagline: by Luye & [zhoujj](zhoujj2013.github.com/~zhoujj)
+tagline: by Luye & zhoujj
 category: bioinformatics
 tags: [pcr, primer3]
 ---

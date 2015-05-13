@@ -7,6 +7,10 @@ tags: [github, linux]
 ---
 {% include JB/setup %}
 
+Add ssh key to github.
+
+<!--more-->
+
 https://help.github.com/articles/generating-ssh-keys/
 
 

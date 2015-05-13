@@ -7,4 +7,8 @@ tags: [linux, bioinformatics]
 ---
 {% include JB/setup %}
 
+Survival in linux environment.
+
+<!--more-->
+
 
