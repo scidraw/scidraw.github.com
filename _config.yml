@@ -13,7 +13,7 @@ title : 科图
 tagline: NGS data analysis and scientific drawing
 
 # Information about author
-#
+
 author :
   name : LuYe & Zhoujj
   
@@ -29,6 +29,8 @@ contact :
 #
 links :
   SciDraw: http://scidraw.github.io/
+
+url: http://scidraw.github.io/
 
 # The search engine. Only support google custom search engine.
 #
