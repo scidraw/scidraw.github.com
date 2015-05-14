@@ -3,7 +3,7 @@ layout: post
 title: "Binary classification analysis by ROCR"
 description: "Binary classification analysis by ROCR"
 tagline: by Luye & zhoujj
-category: R bioinformatics
+category: bioinformatics
 tags: [R, bioinformatics]
 ---
 {% include JB/setup %}
