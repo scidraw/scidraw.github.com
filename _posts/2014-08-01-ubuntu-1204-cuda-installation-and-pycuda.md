@@ -7,9 +7,11 @@ tags: ["ubuntu", "CUDA", "python"]
 ---
 {% include JB/setup %}
 
-操作系统：Ubuntu12.04 64位(本人只测试64位)
-硬件环境：Intel Celeron D 2.8G + abit LG-95C + DDR2 2G 667 (见笑了，老机器)
-显卡型号：Nvidia GeForce 210 512M
++ 操作系统：Ubuntu12.04 64位(本人只测试64位)
++ 硬件环境：Intel Celeron D 2.8G + abit LG-95C + DDR2 2G 667 (见笑了，老机器)
++ 显卡型号：Nvidia GeForce 210 512M
+
+<!--more-->
 
 #### 删除ubuntu自带的nvida显卡driver
 

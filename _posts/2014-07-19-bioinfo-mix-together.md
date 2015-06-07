@@ -11,6 +11,8 @@ tags: ["bioinformatics", "RnaSeq", "NGS", "learn"]
 
 公共数据库有大量已经公开的数据，这些数据大多数是基于二代测序技术产生的。
 
+<!--more-->
+
 fly/C.elegan:
 
 [http://www.modencode.org/](http://www.modencode.org/)
@@ -173,6 +175,3 @@ $cufflinks/cuffdiff -o MBvsMH_cuffdiff -L MB,MH -p 8 ./merged_asm/transcripts.gt
 
 分析流程本来就是这样的，你只需要用shell或者perl把上面的每一步串联起来，就是一个自动化的流程了。
 
-转载请标明出处：
-
-[http://zhoujj2013.github.io/UnCoverIt/bioinformatics/2014/07/19/bioinfo-mix-together/](http://zhoujj2013.github.io/UnCoverIt/bioinformatics/2014/07/19/bioinfo-mix-together/)

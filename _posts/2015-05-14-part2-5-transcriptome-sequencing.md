@@ -41,6 +41,15 @@ For lncRNA and protein coding message RNA denovo assembly and quantification,
 
 ### Differential expression gene detection (SNPs/Alterative Splicing/long noncoding RNA)
 
+Fold Change
+
+For all genes scored, the fold change was calculated by dividing the mutant value by the wild type value. If this number was less than one the (negative) reciprocal is listed (e.g. 0.75, or a drop of 25% from wild type is reported as either 1.3 fold down or -1.3 fold change). The reported fold changes are the average of the two independent experiments.
+
+A change was deemed significant and reported in the lists containing genes > 2-fold down (or up) based on the following criteria: the gene was scored, the fold change was more than 2-fold in the two independent experiments, and the change in the values was above background values in both comparisons.
+
+https://www.biostars.org/p/101727/
+
+http://younglab.wi.mit.edu/expression/foldchange.html
 
 
 ### Function analysis for the difference
