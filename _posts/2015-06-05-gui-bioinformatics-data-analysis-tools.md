@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "gui bioinformatics data analysis tools"
-description: ""
+title: "GUI software for bioinformatics data analysis"
+description: "Introduce some tools for bioinformatics data analysis, easy to use in microsoft windows OS"
 tagline: by Luye & zhoujj
-category: 
-tags: []
+category: bioinformatics
+tags: [bioinformatics]
 ---
 {% include JB/setup %}
 
-<add homepage preview here>
+Some downstream analysis should be preformed in windows, because it's easy to use and save bioinformatian resource. Some mature analysises have fix for a long time and wildly used. Such as geneset enrichment, k-mean clustering, differential express gene detection etc.
 
 <!--more-->
 
