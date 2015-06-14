@@ -36,7 +36,7 @@ tags: [bioinformtics]
 [user]$ npm install # Install dependencies
 [user]$ gulp        # Build Dalliance
 
-{% highlight end %}
+{% endhighlight %}
 
 if ./build dir have been created without error, we have successfully install Dalliance genome browser.
 
