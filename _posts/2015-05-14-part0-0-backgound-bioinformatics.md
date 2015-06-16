@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[Part1-3] Biological databases"
-description: "A brief description of popular databases."
+title: "[Part0-0] Bioinformatics before NGS"
+description: "A brief introduction for bioinformatics."
 tagline: by Luye & zhoujj
 category: course
 tags: [tutorial, bioinformatics]

@@ -3,7 +3,7 @@ layout: post
 title: "[Part1-1] DNA sequencing technologies"
 description: "a summary for DNA sequencing mechanism and popular sequencing platform."
 tagline: by Luye & zhoujj
-category: bioinformatics
+category: course
 tags: [tutorial, bioinformatics]
 ---
 {% include JB/setup %}
