@@ -12,6 +12,8 @@ The post will highlight some tips for transcriptome sequencing project. Every pe
 
 <!--more-->
 
+http://res.illumina.com/documents/products/technotes/rnaseqanalysistophat.pdf
+
 ### Which kind of RNA-seq in suitable for your project?
 
 For all trasncript studies, total RNA(rRNA depletion) sequencing is suitable.
