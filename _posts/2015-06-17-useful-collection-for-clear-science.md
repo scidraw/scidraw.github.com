@@ -26,3 +26,7 @@ add homepage preview here
 
 
 [http://blogs.nature.com/methagora/2014/09/ten-years-of-methods.html](http://blogs.nature.com/methagora/2014/09/ten-years-of-methods.html)
+
+## how calculate something
+
+[http://www.wikihow.com/Calculate-Outliers](http://www.wikihow.com/Calculate-Outliers)
