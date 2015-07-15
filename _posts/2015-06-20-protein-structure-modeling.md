@@ -64,6 +64,15 @@ http://zhanglab.ccmb.med.umich.edu/QUARK/
 
 http://www.salilab.org/modeller/modeller.html
 
+### collection for Crystallography 3D structure modeling
+
+https://www.youtube.com/watch?v=gLsC4wlrR2A
+
+https://www.youtube.com/watch?v=WJKvDUo3KRk
+
+https://benchwise.wordpress.com/2012/06/01/crystallography-for-beginners-making-the-move-into-protein-crystallography-part-1/
+
+http://www.nature.com/nature/journal/v504/n7478/full/nature12651.html#affil-auth
 
 ### some collection
 
