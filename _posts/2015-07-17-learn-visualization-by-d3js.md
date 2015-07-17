@@ -16,4 +16,12 @@ D3.js is a JavaScript library for manipulating documents based on data. D3 helps
 
 http://www.pkuwwt.tk/d3-tutorial-cn/setup.html
 
+http://thinkingonthinking.com/Getting-Started-With-D3/
 
+http://www.verisi.com/resources/d3-tutorial-basic-charts.htm
+
+http://blog.ilukwe.com/post/52094586400/creating-interactive-charts-with-d3-js
+
+http://www.ourd3js.com/wordpress/
+
+http://www.ourd3js.com/wordpress/?p=606
