@@ -26,3 +26,7 @@ add homepage preview here
 
 
 [http://blogs.nature.com/methagora/2014/09/ten-years-of-methods.html](http://blogs.nature.com/methagora/2014/09/ten-years-of-methods.html)
+
+[http://www.onlinecharttool.com/graph?selected_graph=radar](http://www.onlinecharttool.com/graph?selected_graph=radar)
+
+[http://d3js.org](http://d3js.org)

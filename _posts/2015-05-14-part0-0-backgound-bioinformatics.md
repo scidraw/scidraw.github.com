@@ -14,8 +14,10 @@ Next generation sequencing have been widly used in biological research, bioinfor
 
 ## Bioinformatics before NGS --- Computational biology
 
+In the begining of 21 centry, there are only little sequence exists in the world. After the breakthrough in short fragment sequencing technology, a lot of genome sequence come out, bioinformatics/computer become very important in biological analysis. Before that, many computation biologist do a large amount of studies in sequence analysis, they try to explain sequence change match Darvin theries. You can learn more from [Durbin](https://www.sanger.ac.uk/research/projects/genomeinformatics/#t_ref) in sanger, most of his early study focus on sequence family classification. But Durbin have been turn to NGS bioinformatic research, his student He Li and Ruan J. have developed the most popular short read alignment tool: BWA and MAQ. (The 2 guys are from BGI, China)
 
 ## What does bioinformatician actually do?
+
 
 
 ## Stratages to be a good bioinformatician?
