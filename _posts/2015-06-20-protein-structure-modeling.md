@@ -60,4 +60,23 @@ http://raptorx.uchicago.edu/
 
 http://zhanglab.ccmb.med.umich.edu/QUARK/
 
+### MODELLER software
+
+http://www.salilab.org/modeller/modeller.html
+
+### collection for Crystallography 3D structure modeling
+
+https://www.youtube.com/watch?v=gLsC4wlrR2A
+
+https://www.youtube.com/watch?v=WJKvDUo3KRk
+
+https://benchwise.wordpress.com/2012/06/01/crystallography-for-beginners-making-the-move-into-protein-crystallography-part-1/
+
+http://www.nature.com/nature/journal/v504/n7478/full/nature12651.html#affil-auth
+
+### some collection
+
+http://www.vls3d.com/links/bioinformatics/3d-structure-prediction/protein-dna-rna-glycan-modeling
+
+
 
