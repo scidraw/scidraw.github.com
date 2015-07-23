@@ -18,6 +18,9 @@ You can get format details information from [here](http://genome.ucsc.edu/FAQ/FA
 
 https://samtools.github.io/hts-specs/SAMv1.pdf
 
+[https://broadinstitute.github.io/picard/explain-flags.html](https://broadinstitute.github.io/picard/explain-flags.html)
+
+
 ### fastq
 
 https://en.wikipedia.org/wiki/FASTQ_format
