@@ -35,6 +35,7 @@ https://lifescience.roche.com/wcsstore/RASCatalogAssetStore/Articles/04788958001
 
 http://www.premierbiosoft.com/tech_notes/multiplex-pcr.html
 
+http://www.nature.com/ncomms/2013/131025/ncomms3680/full/ncomms3680.html
 
 ## Digital PCR
 
