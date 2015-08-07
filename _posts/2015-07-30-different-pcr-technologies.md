@@ -43,6 +43,11 @@ http://digital-pcr.gene-quantification.info/
 
 http://www.pnas.org/content/96/16/9236.full
 
+The cost fo digital PCR:
+
+[http://www.biocompare.com/Editorial-Articles/154784-Count-Your-Nucleic-Acids-with-These-Digital-PCR-Systems/](http://www.biocompare.com/Editorial-Articles/154784-Count-Your-Nucleic-Acids-with-These-Digital-PCR-Systems/)
+
+
 ## COLD-PCR
 
 http://www.nature.com/nm/journal/v14/n5/full/nm1708.html
