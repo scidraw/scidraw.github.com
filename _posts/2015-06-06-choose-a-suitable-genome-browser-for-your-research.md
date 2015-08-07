@@ -52,3 +52,10 @@ Currently-supported formats are:
 
 [Source code](https://github.com/dasmoth/dalliance)
 
+## IGV
+
+IGV is good software for desktop user.
+
+Download: [http://www.broadinstitute.org/software/igv/home](http://www.broadinstitute.org/software/igv/home)
+
+
