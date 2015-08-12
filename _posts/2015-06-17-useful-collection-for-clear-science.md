@@ -15,6 +15,7 @@ add homepage preview here
 
 ## Some useful collect
 
+[http://www.highcharts.com/demo/area-stacked](http://www.highcharts.com/demo/area-stacked)
 
 [http://clearscience.info/wp/](http://clearscience.info/wp/)
 
@@ -36,3 +37,6 @@ add homepage preview here
 
 [http://www.wikihow.com/Calculate-Outliers](http://www.wikihow.com/Calculate-Outliers)
 >>>>>>> b64e2ca0cd7bfaea3633576b0d1c5fa422add77e
+
+
+
