@@ -21,4 +21,7 @@ http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 http://www.oschina.net/translate/the-flask-mega-tutorial-part-i-hello-world
 
+http://ondras.zarovi.cz/sql/demo/?keyword=default
+
+
 
