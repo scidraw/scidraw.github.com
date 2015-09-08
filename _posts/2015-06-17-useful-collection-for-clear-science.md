@@ -28,15 +28,17 @@ add homepage preview here
 
 [http://blogs.nature.com/methagora/2014/09/ten-years-of-methods.html](http://blogs.nature.com/methagora/2014/09/ten-years-of-methods.html)
 
-<<<<<<< HEAD
 [http://www.onlinecharttool.com/graph?selected_graph=radar](http://www.onlinecharttool.com/graph?selected_graph=radar)
 
 [http://d3js.org](http://d3js.org)
-=======
+
+
+[Highchart](http://www.highcharts.com/)
+
+
 ## how calculate something
 
 [http://www.wikihow.com/Calculate-Outliers](http://www.wikihow.com/Calculate-Outliers)
->>>>>>> b64e2ca0cd7bfaea3633576b0d1c5fa422add77e
 
 
 
