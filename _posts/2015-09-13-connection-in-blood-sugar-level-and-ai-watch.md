@@ -85,6 +85,12 @@ Jawbone的新款UP3运动手环，配备了更先进的生物电阻抗传感器�
 
 http://www.mi.com/shouhuan/spec/
 
+## People
+
+TangXianHui
+
+LiangRui
+
 
 
 
