@@ -3,7 +3,7 @@ layout: post
 title: "clearup macbook air storage"
 description: ""
 tagline: by Luye & zhoujj
-category: other
+category: others
 tags: []
 ---
 {% include JB/setup %}
