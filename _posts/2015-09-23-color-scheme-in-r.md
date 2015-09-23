@@ -21,6 +21,8 @@ Heatmap in r
 
 [http://sebastianraschka.com/Articles/heatmaps_in_r.html](http://sebastianraschka.com/Articles/heatmaps_in_r.html)
 
+[http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/r/heatmap/](http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/r/heatmap/)
+
 
 ## Pick up color
 
