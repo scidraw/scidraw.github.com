@@ -23,6 +23,8 @@ Heatmap in r
 
 [http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/r/heatmap/](http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/r/heatmap/)
 
+[http://davetang.org/muse/2010/12/06/making-a-heatmap-with-r/](http://davetang.org/muse/2010/12/06/making-a-heatmap-with-r/)
+
 
 ## Pick up color
 
