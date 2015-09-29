@@ -38,3 +38,7 @@ http://www.broadinstitute.org/gsea/datasets.jsp
 Tutorial:
 
 http://www.broadinstitute.org/gsea/doc/desktop_tutorial.jsp
+
+http://www.broadinstitute.org/gsea/doc/GSEAUserGuideFrame.html?GSEA_Preranked_Page
+
+
