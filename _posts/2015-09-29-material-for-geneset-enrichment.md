@@ -3,8 +3,8 @@ layout: post
 title: "material for geneset enrichment"
 description: ""
 tagline: by Luye & zhoujj
-category: 
-tags: []
+category: bioinformatics
+tags: [bioinformatics]
 ---
 {% include JB/setup %}
 
