@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Services"
-header: Services
+header: "Services"
 group: navigation
 ---
 {% include JB/setup %}
