@@ -9,9 +9,8 @@ group: navigation
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## 科学绘图分析
++ 科学绘图分析
 
   Coming soon.
   
