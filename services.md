@@ -8,7 +8,6 @@ group: navigation
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 ## 科学绘图分析
 
