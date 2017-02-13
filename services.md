@@ -7,7 +7,6 @@ group: navigation
 {% include JB/setup %}
 
 &nbsp;
-&nbsp;
 
 ## 科学绘图分析
 
