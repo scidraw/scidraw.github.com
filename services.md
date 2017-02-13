@@ -10,8 +10,12 @@ group: navigation
 
 ## 科学绘图分析
 
-  Coming soon.
+ Coming soon.
   
+## 基因组变异注释
+
+ Coming soon.
+ 
 ## 基因组蛋白序列注释分析
 
   应用场景：在日常研究中，经常遇到两个不同条件样品进行比较。当我们对样品进行比较时，会取某一变量进行比较，例如RNAseq中基因表达量。因为有多个基因影响样品的表型，逐个基因研究耗时费力。通过GSEA可以找到整个转录组（或者其它的测量值）主要影响什么生物通路和代谢过程，多角度分析转录组及其他组学数据。GSEA分析不需要检测差异表达基因，因此它对基因的变化更加敏感。
@@ -56,6 +60,10 @@ group: navigation
   
 ## Methylation数据分析
 
-  Coming soon.
+ Coming soon.
   
-  
+## 基因组变异检测(exome-seq, capture-seq and WGS)
+
+ Coming soon.
+ 
+ 
