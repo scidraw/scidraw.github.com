@@ -18,7 +18,9 @@ group: navigation
 
 ## ID转换引擎
 
- Coming soon.
+ [Uniprot ID转换工具](http://www.uniprot.org/uploadlists/)
+ 
+ 请自行转换ID。如需代理转换，100 RMB。
  
 ## 基因组蛋白序列注释分析
 
